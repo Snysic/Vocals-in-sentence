@@ -1,0 +1,17 @@
+{
+    "name": "vocalsinsentence",
+    "version": "1.0.0",
+    "description": "Vocals in sentence",
+    "main": "index.html",
+    "dependencies": {
+        "json-server": "*"
+    },
+    "devDependencies": {
+        "jest": "*"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Maria Vasilenko",
+    "license": "ISC"
+}
